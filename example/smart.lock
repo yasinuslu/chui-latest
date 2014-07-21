@@ -1,0 +1,15 @@
+{
+  "meteor": {},
+  "dependencies": {
+    "basePackages": {
+      "chui-latest": {
+        "path": ".."
+      }
+    },
+    "packages": {
+      "chui-latest": {
+        "path": ".."
+      }
+    }
+  }
+}
