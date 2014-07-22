@@ -1,13 +1,19 @@
 <head>
   <title>meteor-test</title>
+  <meta name="viewport" content="initial-scale=1.0, maximum-scale=1.0, user-scalable=no">
+  <meta name="apple-mobile-web-app-capable" content="yes">
 </head>
 
 <body>
-  {{> hello}}
+  <nav class="current">
+    <a class='button back'>Back</a>
+    <h1>Page Header</h1>
+  </nav>
+  <article class="current">
+    <section>
+      <ul class='list'>
+        <li class="nav"><a>Third</a></li>
+      </ul>
+    </section>
+  </article>
 </body>
-
-<template name="hello">
-  <h1>Hello World!</h1>
-  {{greeting}}
-  <input type="button" value="Click" />
-</template>
