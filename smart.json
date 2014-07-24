@@ -2,8 +2,8 @@
   "name": "chui-latest",
   "description": "ChocolateChipUI (chui) smart package for Meteor ",
   "author": "Yasin Uslu",
-  "version": "0.0.1",
-  "homepage": "https://github.com/yasinuslu/meteor-chui",
-  "git": "https://github.com/yasinuslu/meteor-chui.git",
+  "version": "3.6.1",
+  "homepage": "https://github.com/yasinuslu/chui-latest",
+  "git": "https://github.com/yasinuslu/chui-latest.git",
   "packages": {}
 }
